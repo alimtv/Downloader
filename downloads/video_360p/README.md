@@ -7,7 +7,7 @@
 | Property | Value |
 |----------|-------|
 | **Original File** | `video_360p.mp4` |
-| **Size** | 9.65 MB |
+| **Size** | 9.68 MB |
 | **Status** | **Complete (100%)** |
 | **Password Protected** | **NO** |
 
