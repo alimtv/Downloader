@@ -1,6 +1,7 @@
 # Downloaded list :
 
 - [hls-480p-20383](./hls-480p-20383)
+- [hls-720p-a8913](./hls-720p-a8913)
 - [tor-browser-windows-x86_64-portable-15.0.13](./tor-browser-windows-x86_64-portable-15.0.13)
 - [video_360p](./video_360p)
 - [video_720p](./video_720p)
