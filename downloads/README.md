@@ -1,5 +1,7 @@
 # Downloaded list :
 
+- [LocalSend-1.17.0-android-arm64v8](./LocalSend-1.17.0-android-arm64v8)
+- [LocalSend-1.17.0-windows-x86-64](./LocalSend-1.17.0-windows-x86-64)
 - [N_m3u8DL-RE_v0.5.1-beta_win-x64_20251029](./N_m3u8DL-RE_v0.5.1-beta_win-x64_20251029)
 - [hls-480p-20383](./hls-480p-20383)
 - [hls-720p-a8913](./hls-720p-a8913)
