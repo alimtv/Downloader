@@ -3,6 +3,7 @@
 - [N_m3u8DL-RE_v0.5.1-beta_win-x64_20251029](./N_m3u8DL-RE_v0.5.1-beta_win-x64_20251029)
 - [hls-480p-20383](./hls-480p-20383)
 - [hls-720p-a8913](./hls-720p-a8913)
+- [nekoray-4.0.1-2024-12-12-windows64](./nekoray-4.0.1-2024-12-12-windows64)
 - [tor-browser-windows-x86_64-portable-15.0.13](./tor-browser-windows-x86_64-portable-15.0.13)
 - [video_360p](./video_360p)
 - [video_720p](./video_720p)
