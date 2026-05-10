@@ -1,4 +1,4 @@
-# video_360p
+# video_360p.mp4 - Download Failed
 
 ---
 
@@ -6,27 +6,35 @@
 
 | Property | Value |
 |----------|-------|
-| **Original File** | `video_360p.mp4` |
-| **Total Size** | **2 parts** - **52.24 MB** |
-| **Status** | **Complete (100%)** |
-| **Password Protected** | **NO** |
+| **File** | `video_360p.mp4` |
+| **URL** | 6fb568cb/0/video_360p.mp4?secure=RIvN8a5NZbYWVY0K6GmAmQ==,1778459730&download=Xvideos_freeuse4k_-_freeuse_big_tits_teen_step_daughter_is_anytime_fuck_for_step_dad_4k_-_gabbie_carter_marc_SD.mp4 |
+| **Date** | 2026-05-10 21:44:49 UTC |
+| **Status** | **FAILED** |
 
 ---
 
-## Download Links
+## Error Details
 
-| # | File | Link |
-|---|------|------|
-| 1 | `video_360p.z01` | [Download](https://github.com/alimtv/Downloader/raw/main/downloads/video_360p/video_360p.z01) |
-| 2 | `video_360p.zip` | [Download](https://github.com/alimtv/Downloader/raw/main/downloads/video_360p/video_360p.zip) |
+```
+Download failed after 3 attempts. Last error: curl: (6) Could not resolve host: 6fb568cb
+Warning: Problem : timeout. Will retry in 5 seconds. 3 retries left.
+#=#=#                                                                          curl: (6) Could not resolve host: 6fb568cb
+Warning: Problem : timeout. Will retry in 5 seconds. 2 retries left.
+##O#-#                                                                         curl: (6) Could not resolve host: 6fb568cb
+Warning: Problem : timeout. Will retry in 5 seconds. 1 retries left.
+##O=#  #                                                                       curl: (6) Could not resolve host: 6fb568cb
+```
 
 ---
 
-## How to Extract
+## Possible Solutions
 
-1. **Download all parts** (`.zip`, `.z01`, `.z02`...)
-2. **Open** `video_360p.zip` with WinRAR, 7-Zip, Ark, or any standard zip tool
-3. **Extract** — all parts combine automatically
+- Check if the URL is correct and accessible
+- The file may have been removed or moved
+- The server may require authentication
+- For SourceForge: Try using the direct download link
+- Some servers block automated downloads (403 Forbidden)
+- Try again later if it is a temporary server issue
 
 ---
 
