@@ -6,6 +6,7 @@
 - [briar](./briar)
 - [hls-480p-20383](./hls-480p-20383)
 - [hls-720p-a8913](./hls-720p-a8913)
+- [mailbox](./mailbox)
 - [mhrv-rs-android-arm64-v8a-v1.9.18](./mhrv-rs-android-arm64-v8a-v1.9.18)
 - [mhrv-rs-android-armeabi-v7a-v1.9.18](./mhrv-rs-android-armeabi-v7a-v1.9.18)
 - [mhrv-rs-android-universal-v1.9.18](./mhrv-rs-android-universal-v1.9.18)
